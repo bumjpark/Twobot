@@ -9,7 +9,8 @@ Twobot은  두 개의 AI 챗봇인 Gemini와 ChatGPT를 동시에 활용하여 �
 이 앱은 1:1 채팅과 토론 기능을 제공하며 사용자가 기능을 더 잘 사용 할 수 있게 만들었습니다.
 
 #개발 환경
-![image](https://github.com/user-attachments/assets/4b054592-3ce3-44a0-b241-cecf336cdf24)
+![flask](https://github.com/user-attachments/assets/39f6f75e-db1d-4c09-8a51-cb341f001456)
+
 
 #UserFlow
 
