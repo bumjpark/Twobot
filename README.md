@@ -20,7 +20,9 @@ Twobot은  두 개의 AI 챗봇인 Gemini와 ChatGPT를 동시에 활용하여 �
 
 
 #UserFlow
-![UserFlowChart](https://github.com/user-attachments/assets/032a4c60-e963-46c4-b84d-fbd6a32e093e)
+
+
+![UserFlowChart](https://github.com/user-attachments/assets/de21c9e5-4055-427f-acf3-fd79343b84a9)
 
 
 
