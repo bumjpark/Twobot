@@ -46,6 +46,8 @@ Twobot은  두 개의 AI 챗봇인 Gemini와 ChatGPT를 동시에 활용하여 �
 3.챗지피티와 제미나이 토론하기
 
 #실행화면
+
+
 ![image](https://github.com/user-attachments/assets/b3aa440d-9429-4955-8299-78a0271c23ee)
 ![image](https://github.com/user-attachments/assets/5946c0b8-2330-4033-8560-719a52659a31)
 ![image](https://github.com/user-attachments/assets/58db15d5-03d8-40f5-a04f-f4513f3c678c)
