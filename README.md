@@ -21,6 +21,8 @@ Twobot은  두 개의 AI 챗봇인 Gemini와 ChatGPT를 동시에 활용하여 �
 #기능
 
 #실행화면
+https://drive.google.com/file/d/1t1_depPQAgZlDBDmDrvYjaBr7oKDDVRo
+
 
 #실행영상
 
